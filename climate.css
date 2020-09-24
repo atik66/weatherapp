@@ -1,0 +1,37 @@
+*{
+
+    margin: 0;
+    padding:0;
+}
+
+body{
+
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: center;
+  background-image: linear-gradient(rgb(39, 106, 130),rgb(30, 176, 132));
+  color: antiquewhite;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.location{
+  margin: 50px; 
+ 
+}
+.location h1{
+
+     margin: 40px;
+}
+
+.icon img{
+height: 100px;
+width: 100px;
+
+}
+.tem{
+    margin: 20px;
+    display: flex;
+    padding: 15px;
+}
+
